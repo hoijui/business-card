@@ -1,4 +1,4 @@
 build.sh
 *.log
-back.pdf
-front.pdf
+*.pdf
+*.aux
